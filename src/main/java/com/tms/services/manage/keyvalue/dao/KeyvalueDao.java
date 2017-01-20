@@ -1,0 +1,1 @@
+package com.tms.services.manage.keyvalue.dao;import com.tms.core.DaoManager;import com.tms.services.manage.keyvalue.bean.Keyvalue;public interface KeyvalueDao extends DaoManager<Keyvalue> {}

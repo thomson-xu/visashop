@@ -1,0 +1,1 @@
+package com.tms.services.manage.questionnaire;import com.tms.core.Services;import com.tms.services.manage.questionnaire.bean.Questionnaire;public interface QuestionnaireService extends Services<Questionnaire> {	/**	 * 批量修改问卷状态	 * @param ids	 * @param questionnaireStatusY	 */	void changeStatus(String[] ids, String questionnaireStatusY);}

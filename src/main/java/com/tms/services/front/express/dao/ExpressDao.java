@@ -1,0 +1,1 @@
+package com.tms.services.front.express.dao;import com.tms.core.DaoManager;import com.tms.services.front.express.bean.Express;import org.springframework.stereotype.Repository;@Repository("expressFront")public interface ExpressDao extends DaoManager<Express> {}

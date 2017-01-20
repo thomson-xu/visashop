@@ -1,0 +1,1 @@
+package com.tms.services.manage.questionnaire.dao;import com.tms.services.manage.questionnaire.bean.Questionnaire;import com.tms.core.DaoManager;public interface QuestionnaireDao extends DaoManager<Questionnaire> {}

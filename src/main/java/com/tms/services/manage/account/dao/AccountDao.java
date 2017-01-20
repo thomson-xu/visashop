@@ -1,0 +1,1 @@
+package com.tms.services.manage.account.dao;import com.tms.core.DaoManager;import com.tms.services.manage.account.bean.Account;public interface AccountDao extends DaoManager<Account> {}

@@ -1,0 +1,1 @@
+package com.tms.services.front.area.dao;import com.tms.core.DaoManager;import com.tms.services.front.area.bean.Area;public interface AreaDao extends DaoManager<Area> {}

@@ -1,0 +1,1 @@
+package com.tms.services.manage.commentType.dao;import com.tms.core.DaoManager;import com.tms.services.manage.commentType.bean.CommentType;public interface CommentTypeDao extends DaoManager<CommentType> {	/**	 * 更新所有的评论插件为未选中	 */	void updateAllN();}

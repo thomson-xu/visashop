@@ -1,0 +1,1 @@
+package com.tms.services.front.comment.dao;import com.tms.core.DaoManager;import com.tms.services.front.comment.bean.Comment;public interface CommentDao extends DaoManager<Comment> {	int selectCount(String orderid);}

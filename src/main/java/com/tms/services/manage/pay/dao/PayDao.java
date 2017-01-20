@@ -1,0 +1,1 @@
+package com.tms.services.manage.pay.dao;import com.tms.services.manage.pay.bean.Pay;import com.tms.core.DaoManager;public interface PayDao extends DaoManager<Pay> {}

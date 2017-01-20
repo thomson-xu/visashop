@@ -1,0 +1,1 @@
+package com.tms.services.manage.systemlog;import com.tms.core.Services;import com.tms.services.manage.systemlog.bean.Systemlog;public interface SystemlogService extends Services<Systemlog> {		/**	 * 根据账号查询最新的一次登陆记录	 * @return	 */	Systemlog selectFirstOne(String account);}

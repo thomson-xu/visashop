@@ -1,0 +1,1 @@
+package com.tms.services.front.systemlog;import com.tms.core.Services;import com.tms.services.front.systemlog.bean.Systemlog;public interface SystemlogService extends Services<Systemlog> {}

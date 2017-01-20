@@ -1,0 +1,1 @@
+package com.tms.services.manage.accountRank;import com.tms.core.Services;import com.tms.services.manage.accountRank.bean.AccountRank;public interface AccountRankService extends Services<AccountRank> {}

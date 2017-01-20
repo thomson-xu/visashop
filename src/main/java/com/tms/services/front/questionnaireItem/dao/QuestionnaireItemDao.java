@@ -1,0 +1,1 @@
+package com.tms.services.front.questionnaireItem.dao;import com.tms.services.front.questionnaireItem.bean.QuestionnaireItem;import com.tms.core.DaoManager;public interface QuestionnaireItemDao extends DaoManager<QuestionnaireItem> {	int uniqeItem(QuestionnaireItem questionnaireItem);}

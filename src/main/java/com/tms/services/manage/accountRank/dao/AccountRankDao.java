@@ -1,0 +1,1 @@
+package com.tms.services.manage.accountRank.dao;import com.tms.core.DaoManager;import com.tms.services.manage.accountRank.bean.AccountRank;public interface AccountRankDao extends DaoManager<AccountRank> {}

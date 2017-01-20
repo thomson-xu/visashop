@@ -1,0 +1,1 @@
+package com.tms.services.front.commentType.dao;import com.tms.services.front.commentType.bean.CommentType;import com.tms.core.DaoManager;public interface CommentTypeDao extends DaoManager<CommentType> {}

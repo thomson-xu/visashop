@@ -1,0 +1,1 @@
+package com.tms.services.front.orderlog.bean;import java.io.Serializable;public class Orderlog extends com.tms.services.common.Orderlog implements Serializable {	private static final long serialVersionUID = 1L;	public Orderlog() {		super();	}	public Orderlog(String orderid) {		super(orderid);	}	public void clear() {		super.clear();	}}

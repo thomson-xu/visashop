@@ -1,0 +1,1 @@
+package com.tms.services.front.area;import com.tms.core.Services;import com.tms.services.front.area.bean.Area;public interface AreaService extends Services<Area> {}

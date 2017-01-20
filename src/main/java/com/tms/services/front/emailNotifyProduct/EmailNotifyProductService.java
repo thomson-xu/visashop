@@ -1,0 +1,1 @@
+package com.tms.services.front.emailNotifyProduct;import com.tms.core.Services;import com.tms.services.front.emailNotifyProduct.bean.EmailNotifyProduct;public interface EmailNotifyProductService extends Services<EmailNotifyProduct> {	int selectCount(EmailNotifyProduct ep);}

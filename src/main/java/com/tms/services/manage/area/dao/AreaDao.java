@@ -1,0 +1,1 @@
+package com.tms.services.manage.area.dao;import java.util.List;import com.tms.core.DaoManager;import com.tms.services.manage.area.bean.Area;public interface AreaDao extends DaoManager<Area> {	void deleteAll();	List<Area> selectListByPcode(String pcode);	int getCount(Area area);}

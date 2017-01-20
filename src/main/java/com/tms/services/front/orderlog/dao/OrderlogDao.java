@@ -1,0 +1,1 @@
+package com.tms.services.front.orderlog.dao;import com.tms.core.DaoManager;import com.tms.services.front.orderlog.bean.Orderlog;public interface OrderlogDao extends DaoManager<Orderlog> {	int selectCount(Orderlog orderlog);}

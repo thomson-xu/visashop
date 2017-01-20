@@ -1,0 +1,1 @@
+package com.tms.services.front.ordership.dao;import com.tms.core.DaoManager;import com.tms.services.front.ordership.bean.Ordership;public interface OrdershipDao extends DaoManager<Ordership> {}

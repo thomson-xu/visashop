@@ -1,0 +1,1 @@
+package com.tms.services.manage.express;import com.tms.core.Services;import com.tms.services.manage.express.bean.Express;public interface ExpressService extends Services<Express> {}

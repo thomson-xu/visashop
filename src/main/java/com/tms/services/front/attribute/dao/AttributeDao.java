@@ -1,0 +1,1 @@
+package com.tms.services.front.attribute.dao;import com.tms.core.DaoManager;import com.tms.services.front.attribute.bean.Attribute;public interface AttributeDao extends DaoManager<Attribute> {	/**	 * @param e	 */	void deleteByPid(Attribute e);}

@@ -1,0 +1,1 @@
+package com.tms.services.manage.attribute;import com.tms.core.Services;import com.tms.services.manage.attribute.bean.Attribute;public interface AttributeService extends Services<Attribute> {	int selectCount(Attribute ee);}

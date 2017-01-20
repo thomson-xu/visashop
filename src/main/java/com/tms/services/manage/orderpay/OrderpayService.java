@@ -1,0 +1,1 @@
+package com.tms.services.manage.orderpay;import com.tms.core.Services;import com.tms.services.manage.orderpay.bean.Orderpay;public interface OrderpayService extends Services<Orderpay> {}

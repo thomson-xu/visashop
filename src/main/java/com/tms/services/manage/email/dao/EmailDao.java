@@ -1,0 +1,1 @@
+package com.tms.services.manage.email.dao;import com.tms.core.DaoManager;import com.tms.services.manage.email.bean.Email;public interface EmailDao extends DaoManager<Email> {}

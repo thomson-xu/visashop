@@ -1,0 +1,1 @@
+package com.tms.services.manage.gift.dao;import com.tms.core.DaoManager;import com.tms.services.manage.gift.bean.Gift;public interface GiftDao extends DaoManager<Gift> {}

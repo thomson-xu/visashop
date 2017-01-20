@@ -1,0 +1,1 @@
+package com.tms.services.manage.oss.dao;import com.tms.core.DaoManager;import com.tms.services.manage.oss.bean.Oss;public interface OssDao extends DaoManager<Oss> {}

@@ -1,0 +1,1 @@
+package com.tms.services.front.advert;import com.tms.core.Services;import com.tms.services.front.advert.bean.Advert;public interface AdvertService extends Services<Advert> {}

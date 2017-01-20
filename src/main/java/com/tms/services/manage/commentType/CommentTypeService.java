@@ -1,0 +1,1 @@
+package com.tms.services.manage.commentType;import com.tms.core.Services;import com.tms.services.manage.commentType.bean.CommentType;public interface CommentTypeService extends Services<CommentType> {}

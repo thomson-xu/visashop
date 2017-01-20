@@ -1,0 +1,1 @@
+package com.tms.services.manage.ordership;import com.tms.core.Services;import com.tms.services.manage.ordership.bean.Ordership;public interface OrdershipService extends Services<Ordership> {}

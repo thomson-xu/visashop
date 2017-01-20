@@ -1,0 +1,1 @@
+package com.tms.services.front.address.dao;import com.tms.core.DaoManager;import com.tms.services.front.address.bean.Address;public interface AddressDao extends DaoManager<Address> {	/**	 * 初始化所有的地址全部为不选择	 */	void initAllAddress(Address address);}

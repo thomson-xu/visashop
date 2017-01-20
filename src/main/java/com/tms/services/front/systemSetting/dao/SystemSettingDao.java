@@ -1,0 +1,1 @@
+package com.tms.services.front.systemSetting.dao;import com.tms.services.front.systemSetting.bean.SystemSetting;import com.tms.core.DaoManager;public interface SystemSettingDao extends DaoManager<SystemSetting> {}

@@ -1,0 +1,1 @@
+package com.tms.services.manage.sms;import com.tms.core.Services;import com.tms.services.manage.sms.bean.Sms;public interface SmsService extends Services<Sms> {}

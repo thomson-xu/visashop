@@ -1,0 +1,1 @@
+package com.tms.services.front.catalog.dao;import com.tms.services.front.catalog.bean.Catalog;import com.tms.core.DaoManager;public interface CatalogDao extends DaoManager<Catalog> {}

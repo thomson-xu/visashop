@@ -1,0 +1,1 @@
+package com.tms.services.front.email.dao;import com.tms.services.front.email.bean.Email;import com.tms.core.DaoManager;public interface EmailDao extends DaoManager<Email> {	void updateEmailInvalidWhenReg(Email email);}

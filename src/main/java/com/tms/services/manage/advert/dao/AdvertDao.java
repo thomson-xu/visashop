@@ -1,0 +1,1 @@
+package com.tms.services.manage.advert.dao;import com.tms.core.DaoManager;import com.tms.services.manage.advert.bean.Advert;public interface AdvertDao extends DaoManager<Advert> {}

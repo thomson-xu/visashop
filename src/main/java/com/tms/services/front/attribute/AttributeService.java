@@ -1,0 +1,1 @@
+package com.tms.services.front.attribute;import com.tms.core.Services;import com.tms.services.front.attribute.bean.Attribute;public interface AttributeService extends Services<Attribute> {}

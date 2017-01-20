@@ -1,0 +1,1 @@
+package com.tms.services.manage.gift;import com.tms.core.Services;import com.tms.services.manage.gift.bean.Gift;public interface GiftService extends Services<Gift> {}

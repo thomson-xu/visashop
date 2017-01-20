@@ -1,0 +1,1 @@
+package com.tms.services.front.orderlog;import com.tms.core.Services;import com.tms.services.front.orderlog.bean.Orderlog;public interface OrderlogService extends Services<Orderlog> {}

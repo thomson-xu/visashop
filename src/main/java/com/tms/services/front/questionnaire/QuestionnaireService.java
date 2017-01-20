@@ -1,0 +1,1 @@
+package com.tms.services.front.questionnaire;import com.tms.core.Services;import com.tms.services.front.questionnaire.bean.Questionnaire;public interface QuestionnaireService extends Services<Questionnaire> {}

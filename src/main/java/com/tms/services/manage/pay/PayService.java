@@ -1,0 +1,1 @@
+package com.tms.services.manage.pay;import com.tms.core.Services;import com.tms.services.manage.pay.bean.Pay;public interface PayService extends Services<Pay> {}

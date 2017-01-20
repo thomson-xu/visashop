@@ -1,0 +1,1 @@
+package com.tms.services.manage.keyvalue;import com.tms.core.Services;import com.tms.services.manage.keyvalue.bean.Keyvalue;public interface KeyvalueService extends Services<Keyvalue> {}

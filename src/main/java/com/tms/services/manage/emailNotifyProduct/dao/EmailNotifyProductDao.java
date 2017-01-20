@@ -1,0 +1,1 @@
+package com.tms.services.manage.emailNotifyProduct.dao;import com.tms.core.DaoManager;import com.tms.services.manage.emailNotifyProduct.bean.EmailNotifyProduct;public interface EmailNotifyProductDao extends DaoManager<EmailNotifyProduct> {}

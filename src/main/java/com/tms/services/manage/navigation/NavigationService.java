@@ -1,0 +1,1 @@
+package com.tms.services.manage.navigation;import com.tms.core.Services;import com.tms.services.manage.navigation.bean.Navigation;public interface NavigationService extends Services<Navigation> {}

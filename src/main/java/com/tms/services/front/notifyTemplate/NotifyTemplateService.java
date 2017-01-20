@@ -1,0 +1,1 @@
+package com.tms.services.front.notifyTemplate;import com.tms.core.Services;import com.tms.services.front.notifyTemplate.bean.NotifyTemplate;public interface NotifyTemplateService extends Services<NotifyTemplate> {}

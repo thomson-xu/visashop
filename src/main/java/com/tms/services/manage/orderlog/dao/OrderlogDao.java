@@ -1,0 +1,1 @@
+package com.tms.services.manage.orderlog.dao;import com.tms.services.manage.orderlog.bean.Orderlog;import com.tms.core.DaoManager;public interface OrderlogDao extends DaoManager<Orderlog> {}

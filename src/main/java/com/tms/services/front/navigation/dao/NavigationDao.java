@@ -1,0 +1,1 @@
+package com.tms.services.front.navigation.dao;import com.tms.services.front.navigation.bean.Navigation;import com.tms.core.DaoManager;public interface NavigationDao extends DaoManager<Navigation> {}

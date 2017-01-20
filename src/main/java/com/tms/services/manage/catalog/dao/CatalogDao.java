@@ -1,0 +1,1 @@
+package com.tms.services.manage.catalog.dao;import java.util.List;import com.tms.services.manage.catalog.bean.Catalog;import com.tms.core.DaoManager;public interface CatalogDao extends DaoManager<Catalog> {	/**	 * @param string	 */	void deletes(List<String> list);}

@@ -1,0 +1,1 @@
+package com.tms.services.manage.oss;import com.tms.core.Services;import com.tms.services.manage.oss.bean.Oss;public interface OssService extends Services<Oss> {}

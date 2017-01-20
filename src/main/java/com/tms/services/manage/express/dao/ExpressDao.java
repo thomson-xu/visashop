@@ -1,0 +1,1 @@
+package com.tms.services.manage.express.dao;import com.tms.core.DaoManager;import com.tms.services.manage.express.bean.Express;public interface ExpressDao extends DaoManager<Express> {}

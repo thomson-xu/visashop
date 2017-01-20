@@ -1,0 +1,1 @@
+package com.tms.services.manage.spec;import com.tms.core.Services;import com.tms.services.manage.spec.bean.Spec;public interface SpecService extends Services<Spec> {}

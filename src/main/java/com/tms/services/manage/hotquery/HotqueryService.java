@@ -1,0 +1,1 @@
+package com.tms.services.manage.hotquery;import com.tms.core.Services;import com.tms.services.manage.hotquery.bean.Hotquery;public interface HotqueryService extends Services<Hotquery> {}

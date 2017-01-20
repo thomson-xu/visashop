@@ -1,0 +1,1 @@
+package com.tms.services.front.systemSetting;import com.tms.core.Services;import com.tms.services.front.systemSetting.bean.SystemSetting;public interface SystemSettingService extends Services<SystemSetting> {}

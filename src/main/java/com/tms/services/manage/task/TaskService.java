@@ -1,0 +1,1 @@
+package com.tms.services.manage.task;import com.tms.core.Services;import com.tms.services.manage.task.bean.Task;public interface TaskService extends Services<Task> {}

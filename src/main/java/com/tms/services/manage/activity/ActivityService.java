@@ -1,0 +1,1 @@
+package com.tms.services.manage.activity;import com.tms.core.Services;import com.tms.services.manage.activity.bean.Activity;public interface ActivityService extends Services<Activity> {}

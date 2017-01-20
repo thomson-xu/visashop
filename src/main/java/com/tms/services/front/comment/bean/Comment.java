@@ -1,0 +1,1 @@
+package com.tms.services.front.comment.bean;import java.io.Serializable;public class Comment extends com.tms.services.common.Comment implements Serializable {	private static final long serialVersionUID = 1L;	public void clear() {		super.clear();	}}

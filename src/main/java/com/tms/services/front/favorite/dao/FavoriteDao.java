@@ -1,0 +1,1 @@
+package com.tms.services.front.favorite.dao;import com.tms.core.DaoManager;import com.tms.services.front.favorite.bean.Favorite;public interface FavoriteDao extends DaoManager<Favorite> {	int selectCount(Favorite favorite);}

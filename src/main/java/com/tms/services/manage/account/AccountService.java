@@ -1,0 +1,1 @@
+package com.tms.services.manage.account;import com.tms.core.Services;import com.tms.services.manage.account.bean.Account;public interface AccountService extends Services<Account> {}

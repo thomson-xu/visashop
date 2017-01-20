@@ -1,0 +1,1 @@
+package com.tms.services.manage.orderdetail.dao;import java.util.List;import com.tms.core.DaoManager;import com.tms.services.manage.orderdetail.bean.Orderdetail;import com.tms.web.action.manage.report.ReportInfo;public interface OrderdetailDao extends DaoManager<Orderdetail> {	List<ReportInfo> reportProductSales(Orderdetail orderdetail);}

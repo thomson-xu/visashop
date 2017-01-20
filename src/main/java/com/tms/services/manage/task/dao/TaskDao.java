@@ -1,0 +1,1 @@
+package com.tms.services.manage.task.dao;import com.tms.services.manage.task.bean.Task;import com.tms.core.DaoManager;public interface TaskDao extends DaoManager<Task> {}

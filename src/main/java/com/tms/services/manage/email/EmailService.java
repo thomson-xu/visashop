@@ -1,0 +1,1 @@
+package com.tms.services.manage.email;import com.tms.core.Services;import com.tms.services.manage.email.bean.Email;public interface EmailService extends Services<Email> {}

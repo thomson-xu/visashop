@@ -1,0 +1,1 @@
+package com.tms.services.front.notifyTemplate.dao;import com.tms.services.front.notifyTemplate.bean.NotifyTemplate;import com.tms.core.DaoManager;public interface NotifyTemplateDao extends DaoManager<NotifyTemplate> {}

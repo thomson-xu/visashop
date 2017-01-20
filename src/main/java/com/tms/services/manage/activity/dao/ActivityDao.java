@@ -1,0 +1,1 @@
+package com.tms.services.manage.activity.dao;import com.tms.core.DaoManager;import com.tms.services.manage.activity.bean.Activity;public interface ActivityDao extends DaoManager<Activity> {}

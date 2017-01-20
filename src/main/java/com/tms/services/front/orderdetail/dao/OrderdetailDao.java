@@ -1,0 +1,1 @@
+package com.tms.services.front.orderdetail.dao;import com.tms.core.DaoManager;import com.tms.services.front.orderdetail.bean.Orderdetail;public interface OrderdetailDao extends DaoManager<Orderdetail> {	int selectCount(String orderID);}

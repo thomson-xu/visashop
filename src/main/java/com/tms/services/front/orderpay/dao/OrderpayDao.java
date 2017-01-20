@@ -1,0 +1,1 @@
+package com.tms.services.front.orderpay.dao;import com.tms.core.DaoManager;import com.tms.services.front.orderpay.bean.Orderpay;public interface OrderpayDao extends DaoManager<Orderpay> {}

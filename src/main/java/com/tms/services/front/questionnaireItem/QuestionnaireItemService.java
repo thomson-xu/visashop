@@ -1,0 +1,1 @@
+package com.tms.services.front.questionnaireItem;import java.util.List;import com.tms.core.Services;import com.tms.services.front.questionnaireItem.bean.QuestionnaireItem;public interface QuestionnaireItemService extends Services<QuestionnaireItem> {	void insertList(List<QuestionnaireItem> itemList);}

@@ -1,0 +1,1 @@
+package com.tms.services.front.emailNotifyProduct.dao;import com.tms.core.DaoManager;import com.tms.services.front.emailNotifyProduct.bean.EmailNotifyProduct;public interface EmailNotifyProductDao extends DaoManager<EmailNotifyProduct> {	int selectCount(EmailNotifyProduct ep);}

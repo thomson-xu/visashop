@@ -1,0 +1,1 @@
+package com.tms.services.manage.comment.dao;import com.tms.core.DaoManager;import com.tms.services.manage.comment.bean.Comment;public interface CommentDao extends DaoManager<Comment> {	int selectNotReplyCount();	void updateStatus(Comment c);}
